@@ -1,5 +1,5 @@
 # FCCE - F69's Char Code  Encorder
-![Example Image](images/image1.png)
+![Example Image](image1.png)
 ##description:
 a simple encoder that **"Generative AI era" survival**
 ---
