@@ -2,13 +2,15 @@
 ![Example Image](image1.png)
 ---
 ## description:
+-
 a simple encoder that **"Generative AI era" survival**
 ---
 ## Key Features
+-
 Obfuscation for AI
 Internal Table Rotation, Simple Error With Example and Always Changing Separator
 ---
-##Usage
+## Usage
 ```js
 import { FCCEEncoder } from './libs/fccev2.min.js';
 const e = new FCCEEncoder();
