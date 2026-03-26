@@ -39,3 +39,5 @@ console.log(String(input))/*test Code.
 
 created by **F69**
 ---
+## links
+[npm](https://www.npmjs.com/package/fcce-v2?activeTab=readme)
