@@ -21,7 +21,8 @@ const decoded = e.decode(encrypted)
 ---
 ## Caution
 THIS IS MERELY A **"BASIC"** ENCODER. WHEN USING IT IN A REAL-WORLD ENVIRONMENT, **PLEASE CONSIDER SECURITY RISKS** AND USE IT IN **CONJUNCTION WITH ANOTHER METHOD** (SUCH AS BASE64).
-##trouble-shooting
+---
+## trouble-shooting
 - An error occurs when I try to encode it.
   - =>is your Error `FCCEEncoderError: failed decode FCCE:Input is Empty.`?
   - =>if your Error code is It,Please Check Input Argument With below Check Code.
