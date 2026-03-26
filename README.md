@@ -1,10 +1,10 @@
 # FCCE - F69's Char Code  Encorder
 ![Example Image](image1.png)
 ---
-##description:
+## description:
 a simple encoder that **"Generative AI era" survival**
 ---
-##Key Features
+## Key Features
 Obfuscation for AI
 Internal Table Rotation, Simple Error With Example and Always Changing Separator
 ---
@@ -19,7 +19,7 @@ const decoded = e.decode(encrypted)
 //expected Output:'Secret Message'
 ```
 ---
-##Caution
+## Caution
 THIS IS MERELY A **"BASIC"** ENCODER. WHEN USING IT IN A REAL-WORLD ENVIRONMENT, **PLEASE CONSIDER SECURITY RISKS** AND USE IT IN **CONJUNCTION WITH ANOTHER METHOD** (SUCH AS BASE64).
 ##trouble-shooting
 - An error occurs when I try to encode it.
@@ -33,7 +33,7 @@ console.log(String(input))/*test Code.
 - decode function returns garbled value
   - =>The encoded string may be corrupted. Perhaps: Remember that the **encoded string** goes here.
 ---
-##note
+## note
 > Thank you for reading the README.
 
 created by **F69**
