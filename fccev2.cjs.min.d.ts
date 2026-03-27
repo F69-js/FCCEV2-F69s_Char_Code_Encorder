@@ -13,9 +13,9 @@ declare class FCCEEncoder {
     staticl: string;
     c: number;
     FCCEEncoderError: any;
-    getkey(input: string): any[];
-    encode(input: string, key: number): any[];
-    decode(inputr: string): any[];
+    getKey(input: string): string;
+    encode(input: string, key: number): string;
+    decode(inputr: string): string;
 }
 declare const fcce: FCCEEncoder;
 export = fcce;
