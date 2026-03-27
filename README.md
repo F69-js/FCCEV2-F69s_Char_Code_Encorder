@@ -1,4 +1,4 @@
-# FCCE - F69's Char Code  Encorder
+# FCCE - F69's Char Code  Encoder
 ![Example Image](image1.png)
 ---
 ## description:
@@ -62,3 +62,5 @@ console.log(String(input))/*test Code.
 > Thank you for reading the README.
 
 created by **F69**
+## links
+[npm](https://www.npmjs.com/package/fcce-v2)
