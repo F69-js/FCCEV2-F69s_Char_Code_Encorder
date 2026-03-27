@@ -6,11 +6,33 @@ a simple encoder that **"Generative AI era" survival**
 ---
 ## Key Features
 Obfuscation for AI
-Internal Table Rotation, Simple Error With Example and Always Changing Separator
+- Internal Table Rotation
+  -  Because the internal table rotates, the AI ​​needs to identify the key before it can decipher the code.
+- Simple Error With Example 
+  - There is an error that provides a clear example.
+-  Always Changing Separator
+  - Constantly changing the separator using a special method dramatically increases the difficulty for the AI.
 ---
 ## Usage
+### 1:Install**(npm only)**
+```
+npm i fcce-v2
+```
+### 2:Import
+**Use Local File**
 ```js
 import { FCCEEncoder } from './libs/fccev2.min.js';
+```
+**Use npm(Commonjs)**
+```js
+const { FCCEEncoder } = require('fcce-v2');
+```
+**Use npm(ESModule)**
+```js
+import { FCCEEncoder } from 'fcce-v2'
+```
+### 3:Example Code
+```js
 const e = new FCCEEncoder();
 const encrypted = e.encode("Secret Message", 7);
 console.log(encrypted); 
@@ -33,11 +55,10 @@ console.log(String(input))/*test Code.
 ```
 - decode function returns garbled value
   - =>The encoded string may be corrupted. Perhaps: Remember that the **encoded string** goes here.
+## Fun fact
+-# Did you know that this code was created solely as a hobby by its author, and reached this level of quality just for that purpose?
 ---
 ## note
 > Thank you for reading the README.
 
 created by **F69**
----
-## links
-[npm](https://www.npmjs.com/package/fcce-v2?activeTab=readme)
