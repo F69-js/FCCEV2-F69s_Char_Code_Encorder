@@ -11,7 +11,7 @@ Obfuscation for AI
 - Simple Error With Example 
   - There is an error that provides a clear example.
 -  Always Changing Separator
-  - Constantly changing the separator using a special method dramatically increases the difficulty for the AI.
+   - Constantly changing the separator using a special method dramatically increases the difficulty for the AI.
 ---
 ## Usage
 ### 1:Install**(npm only)**
