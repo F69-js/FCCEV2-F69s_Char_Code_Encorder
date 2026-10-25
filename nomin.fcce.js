@@ -1,13 +1,3 @@
-/*@license FCCEEncorder-production V2
- *@license fccev2.cjs.min.js
- *CJS Version.
- *F69's Scriptng License
- *copyright(c) 2026 F69_Scripting. All Rights Reserved.
- *DISCLAIMER
- *There is no guarantee that this code is error-free, bug-free, always works properly, will not be subject to specification changes or service outages, is legal, or can be used with various entities. 
- *This code is provided "AS IS". By using this library, you agree to the license.
- *if you copy this program, add this comment 'this code is COPY OF FCCEV2"  below  this file and add "copyright(c) [YEAR(do not use "'YY". please use "YYYY")] [NAME]' in copyright section(don't include placeholder(text between "[" and "]"))
- */
 class FCCEEncoder {
     static version = 2;
     l = "abcdefghij";
